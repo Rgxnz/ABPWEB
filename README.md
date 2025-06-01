@@ -2,7 +2,7 @@
 Corvital
 Integrantes:
 
-Oriol Arcarons Julio Arroyo Izan Pardell Biel Raventós
+Oriol Arcarons, Julio Arroyo, Izan Pardell, Biel Raventós
 
 El siguiente proyecto está compuesto por los siguientes archivos:
 
